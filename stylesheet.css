@@ -1,0 +1,117 @@
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding: 57px;
+    font-family: "M PLUS 1p"; 
+}
+
+ul.header{
+    background-color: lightgray;
+    list-style: none;
+    text-align: center;
+    display: flex;
+    padding: 5px;
+}
+header{
+    text-decoration: none;
+    margin-top: -50px;
+    right: 0;
+    left: 0;
+    position: fixed;   
+}
+
+span.header{
+    margin-left: 50px;
+    font-weight: bold;
+    border-top: solid 3px;
+    border-bottom: solid 3px;
+    font-size: 20px;
+}
+
+a.header{
+    font-size: 20px;
+    color: black;
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+}
+li{
+    margin: 10px;
+}
+
+span.headersub{
+    font-size:15px;
+}
+
+span.minihead{
+    border-top: solid 3px;
+    border-bottom: solid 3px;
+    
+}
+
+main{
+    padding-top: 100px;
+}
+
+h3.bubu{
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    text-align: center;
+    font-weight: bold;
+    right: 0;
+    left: 0;
+    margin-left: -300px;
+    margin-right: -300px;
+}
+span.job{
+    background-color: rgba(1, 1, 1, 0.2);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 7px;
+    margin-right: 20px;
+}
+
+span.job2{
+    background-color: rgba(1, 1, 1, 0.2);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 7px;
+    margin-right: 20px;
+    text-decoration: underline double black ;
+}
+
+ul.sub{
+    list-style: none;
+}
+
+a.job{
+    color: black;
+    font-weight: bold;
+}
+
+li.a{
+    margin-bottom: -10px;
+}
+
+a{
+    color: black;
+ 
+}
+
+
+
+
+p{
+    font-size: 15px;
+}
+span.aaaaa{
+    font-size: 10px;
+}
+
+span.job3{
+    text-decoration: underline double;
+    font-weight: bold;
+}
+
+P.job{
+    margin: 10px;
+}
